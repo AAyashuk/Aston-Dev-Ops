@@ -64,4 +64,4 @@ delaycompress
 }
 
 Далее для проверки работы ротации можно использовать команду:
-logrotate -d /etc/logrotate.d/rsyslog.conf.
+logrotate -d /etc/logrotate.d/rsyslog.conf. 
